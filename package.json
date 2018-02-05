@@ -1,0 +1,11 @@
+{
+  "name": "webpack-closure-suppress-loader",
+  "version": "1.0.0",
+  "description": "Loader that suppresses all warnings Closure Compiler would issue when compiling the source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OpenLayers Contributors",
+  "license": "MIT"
+}
